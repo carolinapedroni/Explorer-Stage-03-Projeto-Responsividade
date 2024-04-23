@@ -7,7 +7,7 @@ Essa site foi desenvolvido durante a Formação Explorer (FullStack) da Rocketse
 <br>
 
 <p align="center">
-  <img alt="projeto Responsivo" src="./responsividade.png" width="100%">
+  <img alt="projeto Responsivo" src="https://github.com/carolinapedroni/Explorer-Stage-03-Projeto-Responsividade/blob/main/Responsividade.png" width="100%">
 </p>
 
 <br>
